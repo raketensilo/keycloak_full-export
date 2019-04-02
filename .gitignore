@@ -1,0 +1,9 @@
+
+# ignore .idea folder
+.idea
+
+# ignore target folder
+target
+
+# ignore IDEA project file
+*.iml
